@@ -6,3 +6,5 @@
 	by [Michael Hartl](http://www.michaelhartl.com/).
 
 	练习ruby ing,加油加油！
+
+	这个练习部署在 https://zigzagpig-sample-app.herokuapp.com 上
