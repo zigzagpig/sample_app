@@ -11,7 +11,8 @@ gem 'jquery-rails',		'4.0.0.beta2'
 gem 'turbolinks',		'2.3.0'
 gem 'jbuilder',			'2.2.3'
 gem 'sdoc',             '0.4.0', group: :doc
-# gem 'ruby',			'2.2.0'
+gem 'unicorn',			'4.8.3'
+#   'ruby',			'2.2.0'
 
 group :development, :test do
   gem 'sqlite3',			'1.3.9'

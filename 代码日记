@@ -20,3 +20,8 @@
 
 6  	user.password_digest
 		在rails命令行中多输空格什么的都会有错，真是奇葩，出错可以多验证几次
+
+7	上传到heroku时出错：
+		fatal: unable to access 'https://git.heroku.com/zigzagpig-sample-app.git/': Could not resolve host: git.heroku.com
+			用heroku open打开网站后，heroku偷偷更新了下版本，然后再push就能够推送成功了
+				真是奇葩，不能提示更新吗？总之，bug无处不在，多角度排除。
