@@ -7,7 +7,7 @@ class SessionsController < ApplicationController
   	if user && user.authenticate(params[:session][:password])
   	  log_in user
       params[:session][:remember_me] == '1' ? remember(user) : forget(user)
-      redirect_to user
+      redirect_back_or user
   	else
   	  flash.now[:danger] = '不合法的邮箱密码匹配'	#完全正确
   	  render 'new'
