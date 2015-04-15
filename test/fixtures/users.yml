@@ -1,0 +1,4 @@
+zigzagpig:
+      name: 猪都快睡啦
+      email: 695312886@qq.com
+      password_digest: <%= User.digest('password') %>

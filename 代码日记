@@ -25,3 +25,10 @@
 		fatal: unable to access 'https://git.heroku.com/zigzagpig-sample-app.git/': Could not resolve host: git.heroku.com
 			用heroku open打开网站后，heroku偷偷更新了下版本，然后再push就能够推送成功了
 				真是奇葩，不能提示更新吗？总之，bug无处不在，多角度排除。
+
+4月15日
+1	285页左右不太懂 attr 什么的
+
+2	为什么remember user要user参数呢？亚帕里在后面可以知道
+
+3	有没有用到的函数，那是肯定错的嘛，cookies没有删啊，所以错了啊
