@@ -7,4 +7,4 @@
 
 	练习ruby ing,加油加油！
 
-	这个练习部署在 https://zigzagpig-sample-app.herokuapp.com 上
+	这个练习部署在 https://anyruby.herokuapp.com 上
